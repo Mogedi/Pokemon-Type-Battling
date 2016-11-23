@@ -31,7 +31,7 @@ function PokemonEffectiveness(input) {
         //console.log(types);
 
         console.log(Victim(input) + "x");
-    }, 5000)
+    }, 6000)
 }
 
 function Attacker(input) {
